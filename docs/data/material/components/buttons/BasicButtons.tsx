@@ -8,6 +8,7 @@ export default function BasicButtons() {
       <Button variant="text">Text</Button>
       <Button variant="contained">Contained</Button>
       <Button variant="outlined">Outlined</Button>
+      <Button><img src="https://i.ibb.co/CW5Wvry/buttonpng.png" alt="buttonpng" width="24"/></Button>
     </Stack>
   );
 }
